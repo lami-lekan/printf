@@ -1,4 +1,4 @@
-ertainly! Here's a sample README file that explains how to create a simplified `printf` function in C:
+Certainly! Here's a sample README file that explains how to create a simplified `printf` function in C:
 
 # Creating a Custom printf Function in C
 
